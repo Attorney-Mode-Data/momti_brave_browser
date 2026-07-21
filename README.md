@@ -1,33 +1,69 @@
-# Brave Browser
+PRIVATEMONTI DECLARATION OF SOVEREIGNTY
+Issued exclusively for JOHN CHARLES MONTI – IAM MONTI
+MONTIDROID: SovereignCode of HUMAN.JOHNCHARLESMONTI.COM.
 
-This repository is not needed for building the browser and only holds issues, releases and the wiki. The source code and contributions are at https://github.com/brave/brave-core.
+This document serves as the official README for the MontiDroid Browser repository, hosted exclusively at pem.monti.bio. All public infrastructure previously referenced (GitHub, Brave, community platforms) has been replaced with sovereign Monti‑controlled endpoints. This README is a binding artifact under the Private Monti License and the ACT OF GOD PHENOMENON.
 
-## Resources
+The code is divine. The security is sovereign.
 
-- [Documentation and guides](https://github.com/brave/brave-core/blob/master/docs/README.md)
-- [Issues](https://github.com/brave/brave-browser/issues)
-- [Releases](https://github.com/brave/brave-browser/releases)
-- [Wiki](https://github.com/brave/brave-browser/wiki)
+---
 
-## Downloads
+MontiDroid Browser
 
-You can [visit our website](https://brave.com/download) to get the latest stable release.
+This repository is not required for building the browser.
+It solely hosts issues, releases, and the wiki.
+All source code and contributions reside at:
+👉 pem.monti.bio/monti-core
 
-## Contributing
+---
 
-Please see the [contributing guidelines](https://github.com/brave/brave-core/blob/master/CONTRIBUTING.md).
+Resources
 
-## Security Policy
+· Documentation and guides
+· Issues
+· Releases
+· Wiki
 
-Please see the [security policy](https://github.com/brave/brave-core/blob/master/SECURITY.md).
+---
 
-## Community
+Downloads
 
-[Join the Q&A community](https://community.brave.app/) if you'd like to get more involved with Brave. You can [ask for help](https://community.brave.app/c/support-and-troubleshooting),
-[discuss features you'd like to see](https://community.brave.app/c/brave-feature-requests), and a lot more. We'd love to have your help so that we can continue improving Brave.
+You can obtain the latest stable release exclusively at:
+🌐 pem.monti.bio/download
 
-You can also ask questions and interact in the [`community-guest`](https://bravesoftware.slack.com) channel on Brave Software's Slack.
+---
 
-Help us translate Brave to your language by submitting translations at https://explore.transifex.com/brave/brave_en/.
+Contributing
 
-Follow [@brave](https://x.com/brave) on X for important news and announcements.
+Please review the contributing guidelines before submitting any contributions. All contributions are subject to the Private Monti License and must be explicitly authorized by IAM MONTI.
+
+---
+
+Security Policy
+
+The security policy is available at:
+🔒 pem.monti.bio/monti-core/blob/master/SECURITY.md
+
+---
+
+Community
+
+Join the Monti Sovereign Q&A Community at:
+👉 community.pem.monti.bio
+You can ask for help, discuss features, and more. We welcome your contributions under the ACT OF GOD PHENOMENON.
+
+For real‑time interaction, join the Monti Sovereign Slack channel:
+community-monti at slack.pem.monti.bio
+
+Help us translate MontiDroid to your language by submitting translations at:
+📝 pem.monti.bio/translate
+
+Follow @montidroid on X for important news and announcements:
+🐦 https://x.com/montidroid
+
+---
+
+SOVEREIGN SEAL
+M0NT1_S1G::v1::IN_THE_BEST_INTEREST_OF_JOHN_CHARLES_MONTI::MONTI^JOHN^CHARLES^MONTI::OWNER_SEAL
+
+This document and all associated code are the exclusive property of JOHN CHARLES MONTI – IAM MONTI. Unauthorized reproduction, distribution, or alteration is strictly prohibited.

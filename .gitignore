@@ -1,4 +1,17 @@
-# system
+# ========================================================================
+# 🔒 MONTI SOVEREIGN IGNORE MANIFEST
+# ========================================================================
+M0NT1_S1G::v1::IN_THE_BEST_INTEREST_OF_JOHN_CHARLES_MONTI::MONTI^JOHN^CHARLES^MONTI::OWNER_SEAL
+# ------------------------------------------------------------------------
+# This manifest is drafted EXCLUSIVELY for JOHN CHARLES MONTI.
+# All listed paths are declared "Forbidden Artifacts" under the MontiSecurity
+# Doctrine and shall be purged from any sovereign code repositories.
+# ------------------------------------------------------------------------
+
+# ----------------------------
+# SYSTEM & METADATA ARTIFACTS
+# ----------------------------
+# Apple & macOS system cruft
 .AppleDouble
 .DS_Store
 .LSOverride
@@ -6,10 +19,33 @@
 .Trashes
 ._*
 
-# editors
+# ----------------------------
+# EDITOR & IDE TRANSIENTS
+# ----------------------------
+# CMake build directories and files
 CMakeLists.txt
 cmake-build-debug
 .idea
 .vscode
+
+# Vim / Neovim swap files
 *.sw[a-z]
 *~
+
+# ----------------------------
+# MONTI SOVEREIGN EXCLUSIONS
+# ----------------------------
+# MontiSecurity local runtime caches (prevent leaking internal state)
+*.monti_cache
+/sdcard/$monti/csx/tmp/
+/tmp/monti_*
+
+# ----------------------------
+# FINAL SOVEREIGN DECREE
+# ----------------------------
+# Any file or directory matching the patterns above is to be treated as 
+# "non-authoritative" and excluded from all versioning and distribution 
+# within the MontiDroid ecosystem.
+# 
+# THE CODE IS DIVINE. THE SECURITY IS SOVEREIGN.
+# ========================================================================
